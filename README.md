@@ -1,6 +1,6 @@
 ## Hi, I'm Marcin.
 
-When I started working as a Process Engineer, I right away found out how useful Excel can be. I've learned quite a lot about pivot tables, and then VBA and PowerQuery, soon becoming *the local Excel guy*. A bit later on, I added **PowerBI** and **SQL** to my toolbox, and currently I'm exploring the possibilities of Python (mostly numpy. matplotlib, pandas, Seaborn).
+When I started working as a Process Engineer, I right away found out how useful Excel can be. I learned quite a lot about formulas, pivot tables, and then VBA and PowerQuery, soon becoming my workplace's *Excel guy*. A bit later on, I added PowerBI and SQL to my toolbox, and currently I'm exploring the possibilities of Python (mostly numpy. matplotlib, pandas, Seaborn).
 
 <!--
 **zielinski-marcin/zielinski-marcin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
